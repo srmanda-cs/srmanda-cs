@@ -27,7 +27,7 @@ When I’m not debugging, I’m automating, designing, or reducing a three‑mon
 
 ### 🧱 Featured Projects
 
-- 🔮 [**Jobbernaut**](https://jobbernaut.srmanda.com/) — AI‑driven job search automation; 30 min → 30 sec resume tailoring.  
+- 🔮 [**Jobbernaut**](https://jobbernaut.srmanda.com/) — AI‑driven job search automation; 30 min → 30 sec resume tailoring (Public access currently revoked due to ethical concerns).  
 - ⚙️ [**SQuire (Trainee KNighter)**](https://github.com/srmanda-cs/SQuire) — Synthesizing Linux kernel bug checkers with LLMs.  
 - 🧩 [**MatchWise**](https://github.com/orgs/yashas-hm-unc/teams/523/repositories) — ILP optimization tool that solves NP‑hard allocation in < 200 ms.  
 - 🧬 [**Cervical Cancer Detection**](https://www.kaggle.com/code/ashishreddy9000/fyp-track-2-darknet-feat-ext-svm-quadri) — CNN + UMAP + SVM improving medical imaging F1 by 12 %.
