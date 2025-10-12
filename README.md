@@ -23,9 +23,6 @@ When I’m not debugging, I’m automating, designing, or reducing a three‑mon
 - Blend **AI + Systems** thinking.  
 - Prove that well‑crafted code *earns its keep*.  
 
-Most of my work happens off‑GitHub — gotta keep the lights on 💰💰 —  
-but if you’re curious about what I’m cooking next, ask me. It might just blow your mind.
-
 ---
 
 ### 🧱 Featured Projects
