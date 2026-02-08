@@ -15,7 +15,7 @@
 
 > “Optimal development balances swift execution with enduring maintainability.”
 
-I’m a **Software Engineer @ UNC Chapel Hill**, obsessed with teaching AI and automation to do meaningful things at scale.  
+I’m a **Cloud Infrastructure Engineer (Graduate Fellow) @ UNC Chapel Hill**, obsessed with teaching AI and automation to do meaningful things at scale.  
 When I’m not debugging, I’m automating, designing, or reducing a three‑month workflow down to four minutes.
 
 🧠 I love building things that:  
