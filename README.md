@@ -1,6 +1,6 @@
 <!-- 🌌 Profile Header -->
 <h1 align="center">🪄 Hey, I'm <strong>Snehashish Reddy Manda</strong></h1>
-<h3 align="center">aka <strong>Abracadabra Ash</strong> — turning logic into a little magic ✨</h3>
+<h3 align="center">aka <strong>Ash</strong> — turning logic into a little magic ✨</h3>
 
 <p align="center">
   <a href="https://srmanda.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white"/></a>
