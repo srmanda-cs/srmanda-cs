@@ -1,5 +1,5 @@
 <!-- 🌌 Profile Header -->
-<h1 align="center">🪄 Hey, I'm <strong>Snehashish Reddy Manda</strong></h1>
+<h1 align="center">🪄 Hey, I'm <strong>Ash Manda</strong></h1>
 <h3 align="center">aka <strong>Ash</strong> — turning logic into a little magic ✨</h3>
 
 <p align="center">
