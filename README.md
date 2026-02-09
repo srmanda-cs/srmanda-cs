@@ -82,7 +82,7 @@ When I’m not debugging, I’m automating, designing, or reducing a three‑mon
 
 ### 🏆 Achievements & Highlights
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srmanda-cs&theme=tokyonight&margin-w=8&no-bg=true&no-frame=true" />
+  <img src="https://trophy.ryglcloud.net/?username=srmanda-cs&theme=tokyonight&margin-w=8&no-bg=true&no-frame=true" />
 </p>
 
 ---
