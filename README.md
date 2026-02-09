@@ -32,10 +32,37 @@ When I’m not debugging, I’m automating, designing, or reducing a three‑mon
 
 ---
 
-### 🧰 Tech Stack
-
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,flask,fastapi,java,spring,aws,azure,docker,kubernetes,postgresql,mysql,git,githubactions,linux,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,kotlin,js,go,dart,r,matlab,bash,powershell,html,css,coffeescript,latex,md,regex" />
+</p>
+
+---
+
+### ⚛️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,django,flask,fastapi,spring,express,nodejs,bun,flutter,electron,pytorch,tensorflow,sklearn,selenium,bootstrap,tailwind,materialui,sass,htmx,discordjs,graphql" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,firebase,supabase,heroku,vercel,netlify,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,bitbucket,nginx,prometheus,grafana" />
+</p>
+
+---
+
+### 🛠️ Tools, Databases & OS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,dynamodb,elasticsearch,linux,ubuntu,debian,arch,kali,mint,redhat,windows,git,gradle,maven,yarn,npm,babel,postman,figma,notion,obsidian,arduino,discord,bots,anaconda" />
+</p>
+
+---
+
+### ⌨️ IDEs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,vim,androidstudio,replit" />
 </p>
 
 ---
